@@ -1,0 +1,13 @@
+# Core dependencies
+requests>=2.31.0
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# System control (optional but recommended)
+pyautogui>=0.9.53
+mss>=7.0.1
+pillow>=10.0.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6
